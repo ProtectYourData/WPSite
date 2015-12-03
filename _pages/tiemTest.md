@@ -3,6 +3,7 @@ ID: 9
 post_title: Was ist ProtectYourData?
 author: admin
 post_date: 2015-12-03 15:14:30
+published: false
 layout: page
 ---
 ProtectYourData.org ist eine Website die sich für den Datenschutz und das freie Internet für alle einsetzt.
